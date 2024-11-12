@@ -16,7 +16,7 @@ You can make it work in less than 10 seconds!
 
 ### [✨ Examples](https://pedrohenriquepires.github.io/react-simple-dialogs-docs/docs/getting-started/Simple%20Usage)
 
-# 🏗️ Instalation
+# 🏗️ Installation
 
 ```bash
 # npm
